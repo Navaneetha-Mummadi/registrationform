@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(13, 121, 78);
+    padding-top: 100px;
+}
+
+form{
+    background-color: rgb(204, 240, 225);
+    padding: 25px;
+    width:35%;
+    border: 1.5px solid rgb(36, 186, 141);
+    border-radius: 15px;
+}
+
+label{
+    float: left;
+}
+
+#inp{
+    float: right;
+}
